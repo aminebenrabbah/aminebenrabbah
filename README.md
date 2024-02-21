@@ -4,7 +4,7 @@
 <article>
     <div>
         <p>
-            i'm developer Freelancer than 1 years of experience I'm specialized in python web automation web scraping for selenium and pyautogui and beautifulsoup , i have startup, that is name and account 
+            i'm developer Freelancer than 1 years of experience I'm specialized in python  web scraping for selenium  and beautifulsoup , i have startup, that is name and account 
 #python #selenium  #beautifulsoup
         </p>
         <br>
