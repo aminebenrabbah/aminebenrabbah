@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1>amine benrabba</h1>
+<article>
+    <div>
+        <p>
+            i'm developer Freelancer than 1 years of experience I'm specialized in python web automation web scraping for selenium and pyautogui and beautifulsoup , i have startup, that is name and account 
+#python #selenium  #beautifulsoup
+        </p>
+    </div>
+</article>
 <!--
 **aminebenrabbah/aminebenrabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
