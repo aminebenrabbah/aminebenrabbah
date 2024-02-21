@@ -1,12 +1,21 @@
 ### Hi there 👋
 
-<h1>amine benrabba</h1>
+<h1>amine benrabbah</h1>
 <article>
     <div>
         <p>
             i'm developer Freelancer than 1 years of experience I'm specialized in python web automation web scraping for selenium and pyautogui and beautifulsoup , i have startup, that is name and account 
 #python #selenium  #beautifulsoup
         </p>
+        <br>
+        <div>
+        my contact: <br>
+        
+        - linkedin :<a href="https://www.linkedin.com/in/amine-benrabbah/">https://www.linkedin.com/in/amine-benrabbah/</a>
+        <br>
+        - emial : <a href="mailto:aminebenrabbah21@gmail.com">aminebenrabbah21@gmail.com</a>
+        </div>
+
     </div>
 </article>
 <!--
