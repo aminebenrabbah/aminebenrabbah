@@ -14,7 +14,6 @@
         <br>
         - emial : <a href="mailto:aminebenrabbah21@gmail.com">aminebenrabbah21@gmail.com</a>
         </div>
-
     </div>
 </article>
 <!--
