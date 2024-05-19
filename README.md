@@ -12,7 +12,7 @@
         my contact: <br>
         - linkedin :<a href="https://www.linkedin.com/in/amine-benrabbah/">https://www.linkedin.com/in/amine-benrabbah/</a>
         <br>
-        - emial : <a href="mailto:aminebenrabbah21@gmail.com">aminebenrabbah21@gmail.com</a>
+        - emial : <a href="mailto:benrabbahamine@gmail.com">benrabbahamine@gmail.com</a>
         </div>
     </div>
 </article>
